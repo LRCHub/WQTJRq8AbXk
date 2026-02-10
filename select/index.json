@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Living Dolls",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-10T09:00:41.766248Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Living Dolls",
+      "artist": "Jeremy Jay",
+      "has_synced": false,
+      "path": "select/01_The_Living_Dolls_Jeremy_Jay.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Living Dolls",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Living_Dolls_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Living Dolls",
+      "artist": "One OK Rock",
+      "has_synced": true,
+      "path": "select/03_Living_Dolls_One_OK_Rock.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Living Dolls",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Living_Dolls_ONE_OK_ROCK.txt"
+    }
+  ]
+}
